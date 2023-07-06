@@ -1,0 +1,7 @@
+print(15+3)
+print(15-3)
+print(15/3)
+print(15*3)
+print(15**3)
+print(19//3)
+print(15 % 3)
